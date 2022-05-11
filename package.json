@@ -1,8 +1,8 @@
 {
   "name": "xprezzo-bytes",
   "description": "Utility to parse a string bytes to bytes and vice-versa",
-  "version": "1.0.0",
-  "author": "Ben Ajenoui <info@seohero.io>",
+  "version": "1.1.0",
+  "author": "Cloudgen Wong <cloudgen.wong@gmail.com>",
   "license": "MIT",
   "keywords": [
     "byte",
@@ -15,14 +15,13 @@
   ],
   "repository": "xprezzo/xprezzo-bytes",
   "devDependencies": {
-    "eslint": "7.11.0",
-    "eslint-config-standard": "14.1.1",
-    "eslint-plugin-import": "2.22.1",
-    "eslint-plugin-markdown": "1.0.2",
+    "eslint": "8.15.0",
+    "eslint-config-standard": "17.0.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-markdown": "2.2.1",
     "eslint-plugin-node": "11.1.0",
-    "eslint-plugin-promise": "4.2.1",
-    "eslint-plugin-standard": "4.0.1",
-    "mocha": "8.2.0",
+    "eslint-plugin-promise": "6.0.0",
+    "mocha": "10.0.0",
     "nyc": "15.1.0"
   },
   "files": [
